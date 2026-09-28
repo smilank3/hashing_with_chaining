@@ -1,0 +1,3 @@
+# No third-party dependencies.
+# Standard library only: random, sys, time, math, collections
+# Requires Python 3.8 or newer.
